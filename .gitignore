@@ -9,6 +9,7 @@ buildNumber.properties
 .mvn/timing.properties
 .gradle/
 gradle/
+build/
 gradlew
 gradlew.bat
 
